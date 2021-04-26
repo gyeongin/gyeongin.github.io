@@ -16,7 +16,7 @@ Selected Publications
 ======
 You can find my Google Scholar information [here](https://scholar.google.com/citations?user=RwhPHaEAAAAJ).
 
-1. Woosuk Kwon\*, **Gyeong-In Yu\***, Eunji Jeong, Byung-Gon Chun (\*equal contribution). Nimble: Lightweight and Efficient GPU Task Scheduling for Deep Learning. _34th Conference on Neural Information Processing Systems (NeurIPS 2020) (Spotlight)_, December 2020.
+1. Woosuk Kwon\*, **Gyeong-In Yu\***, Eunji Jeong, Byung-Gon Chun (**\*equal contribution**). Nimble: Lightweight and Efficient GPU Task Scheduling for Deep Learning. _34th Conference on Neural Information Processing Systems (NeurIPS 2020) (Spotlight)_, December 2020.
 1. Supun Nakandala, Karla Saur, **Gyeong-In Yu**, Konstantinos Karanasos, Carlo Curino, Markus Weimer, Matteo Interlandi. A Tensor Compiler Approach for One-size-fits-all ML Prediction Serving. _14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2020)_, November 2020.
 1. Woo-Yeon Lee, Yunseong Lee, Joo Seong Jeong, **Gyeong-In Yu**, Joo Yeon Kim, Ho Jin Park, Beomyeol Jeon, Wonwook Song, Gunhee Kim, Markus Weimer, Brian Cho, Byung-Gon Chun. Automating System Configuration of Distributed Machine Learning. _39th IEEE International Conference on Distributed Computing Systems (ICDCS 2019)_, July 2019.
 1. Soojeong Kim, **Gyeong-In Yu**, Hojin Park, Sungwoo Cho, Eunji Jeong, Hyeonmin Ha, Sanha Lee, Joo Seong Jeong, Byung-Gon Chun. _Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks. 14th European Conference on Computer Systems (EuroSys 2019)_, March 2019.
