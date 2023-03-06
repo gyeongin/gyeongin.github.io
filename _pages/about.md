@@ -8,9 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Seoul National University (SNU), advised by [Prof. Byung-Gon Chun](https://bgchun.github.io). My research interest lies in the intersection of computer systems and machine learning, with a focus on systems for machine learning. More specifically, I am primarily working on software techniques to improve machine learning in the datacenter, including both inference and training.
+I am the CTO of [FriendliAI](https://friendli.ai).
+FriendliAI is a start-up with the mission of empowering organizations to innovate the world by lowering technical and cost barriers of developing and serving generative AI like GPT-3 and T5 for human-like chatbots, translation, code generation, summarization, and so on.
+My interest lies in the intersection of computer systems and machine learning, with a focus on systems for machine learning.
 
-I received my Bachelor's degree in computer science and engineering (CSE) and economics from SNU in 2017.
+Before joining FriendliAI, I received my Ph.D. in Computer Science and Engineering from Seoul National University (SNU). 
+My primary field of study was software systems for machine learning inference in the datacenter.
+I received Outstanding Dissertation Award from 
+I have Bachelor's degree in computer science and engineering (CSE) and economics from Seoul National University.
+
+Education
+======
+* Ph.D. in Computer Science and Engineering, Seoul National University, 2017.03 - 2023.02
+  * Advisor: [Prof. Byung-Gon Chun](https://bgchun.github.io).
+* B.S. in Computer Science and Engineering / B.A. in Economics, Seoul National University, 2012.03 - 2017.02
+
+Experience
+======
+* CTO of FriendliAI, 2023.03 - 
+* Research Intern at Microsoft AI and Research, 2018.06 - 2018.09
+* Research Intern at Microsoft Research Asia, 2017.06 - 2017.09
+
 
 Selected Publications
 ======
