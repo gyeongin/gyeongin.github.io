@@ -12,10 +12,9 @@ I am the CTO of [FriendliAI](https://friendli.ai).
 FriendliAI is a start-up with the mission of empowering organizations to innovate the world by lowering technical and cost barriers of developing and serving generative AI like GPT-3 and T5 for human-like chatbots, translation, code generation, summarization, and so on.
 My interest lies in the intersection of computer systems and machine learning, with a focus on systems for machine learning.
 
-Before joining FriendliAI, I received my Ph.D. in Computer Science and Engineering from Seoul National University (SNU). 
+Before joining FriendliAI, I received my Ph.D. in Computer Science and Engineering (CSE) from Seoul National University.
 My primary field of study was software systems for machine learning inference in the datacenter.
-I received Outstanding Dissertation Award from 
-I have Bachelor's degree in computer science and engineering (CSE) and economics from Seoul National University.
+I received Best Ph.D. Dissertation Award from the CSE Department at Seoul National University.
 
 Education
 ======
