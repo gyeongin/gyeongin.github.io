@@ -22,7 +22,7 @@ Education
   * Advisor: [Prof. Byung-Gon Chun](https://bgchun.github.io).
 * B.S. in Computer Science and Engineering / B.A. in Economics, Seoul National University, 2012.03 - 2017.02
 
-Experience
+Professional Experience
 ======
 * CTO of FriendliAI, 2023.03 - 
 * Research Intern at Microsoft AI and Research, 2018.06 - 2018.09
