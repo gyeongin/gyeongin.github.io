@@ -13,7 +13,7 @@ FriendliAI is a start-up with the mission of empowering organizations to innovat
 My interest lies in the intersection of computer systems and machine learning, with a focus on systems for machine learning.
 
 Before joining FriendliAI, I received my Ph.D. in Computer Science and Engineering (CSE) from Seoul National University.
-My primary field of study was software systems for machine learning inference in the datacenter.
+My primary field of study was software systems for accelerating machine learning inference in the datacenter.
 I received Best Ph.D. Dissertation Award from the CSE Department at Seoul National University.
 
 Education
