@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am the CTO of [FriendliAI](https://friendli.ai).
-FriendliAI is a start-up with the mission of empowering organizations to innovate the world by lowering technical and cost barriers of developing and serving generative AI like GPT-3 and T5 for human-like chatbots, translation, code generation, summarization, and so on.
+FriendliAI is a start-up with the mission of empowering innovation by lowering barriers to serving and training generative AI like GPT, T5, Stable Diffusion, and so on.
 My interest lies in the intersection of computer systems and machine learning, with a focus on systems for machine learning.
 
 Before joining FriendliAI, I received my Ph.D. in Computer Science and Engineering (CSE) from Seoul National University.
@@ -33,6 +33,7 @@ Selected Publications
 ======
 You can find my Google Scholar information [here](https://scholar.google.com/citations?user=RwhPHaEAAAAJ).
 
+1. Taebum Kim, Hyoungjoo Kim, **Gyeong-In Yu**, Byung-Gon Chun. BPipe: Memory-Balanced Pipeline Parallelism for Training Large Language Models. To appear in _40th International Conference on Machine Learning (ICML 2023) (Oral)_.
 1. **Gyeong-In Yu**, Saeed Amizadeh, Sehoon Kim, Artidoro Pagnoni, Ce Zhang, Byung-Gon Chun, Markus Weimer, Matteo Interlandi. WindTunnel: Towards Differentiable ML Pipelines Beyond a Single Model. _48th International Conference on Very Large Data Bases (VLDB 2022)_. [\[paper\]](https://dl.acm.org/doi/10.14778/3485450.3485452)
 1. **Gyeong-In Yu**, Joo Seong Jeong, Geon-Woo Kim, Soojeong Kim, Byung-Gon Chun. Orca: A Distributed Serving System for Transformer-Based Generative Models. _16th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2022)_, July 2022. [\[paper\]](https://www.usenix.org/conference/osdi22/presentation/yu)
 1. Taebum Kim, Eunji Jeong, Geon-Woo Kim, Yunmo Koo, Sehoon Kim, **Gyeong-In Yu**, Byung-Gon Chun. Terra: Imperative-Symbolic Co-Execution of Imperative Deep Learning Programs. _35th Conference on Neural Information Processing Systems (NeurIPS 2021)_, December 2021. [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/0b32f1a9efe5edf3dd2f38b0c0052bfe-Abstract.html)
